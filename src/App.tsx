@@ -140,7 +140,7 @@ const LoginPage = ({ onLogin }: { onLogin: (role: UserRole) => void }) => {
           </form>
           <div className="mt-4 text-center text-sm text-muted-foreground">
             <p>Demo: Use "admin@machakos.ac.ke" for admin access</p>
-            <p>Or any email for graduate access</p>
+            <p>Or the email provded by the System Admin</p>
           </div>
         </CardContent>
       </Card>
