@@ -13,7 +13,7 @@ The **Machakos University Postgraduate Alumni Tracker** is a modern, responsive 
 
 **Developer:** Pauline Onyango  
 **Institution:** Machakos University  
-**Specialisation:** [Artifical Intelliegence & Data Science]
+**Specialisation:** Artifical Intelligence & Data Science
 
 ---
 
