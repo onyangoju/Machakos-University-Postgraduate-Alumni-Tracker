@@ -13,7 +13,7 @@ The **Machakos University Postgraduate Alumni Tracker** is a modern, responsive 
 
 **Developer:** Pauline Onyango  
 **Institution:** Machakos University  
-**Specialisation:** Artifical Intelligence & Data Science
+**Specialisation:** Artificial Intelligence & Data Science
 
 ---
 
@@ -175,7 +175,7 @@ machakos-alumni-tracker/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pauline-onyango/machakos-alumni-tracker.git
+   git clone https://github.com/onyangoju/Machakos-University-Postgraduate-Alumni-Tracker.git
    cd machakos-alumni-tracker
    ```
 
@@ -267,6 +267,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Copyright (c) 2026 Pauline Onyango, Machakos University
 
+## Live Demo
+🔗 https://your-deployment-link.com
+
 ## Acknowledgments
 
 - **Machakos University** - For the opportunity to develop this system
@@ -277,6 +280,6 @@ Copyright (c) 2026 Pauline Onyango, Machakos University
 ## Contact
 
 **Developer:** Pauline Onyango  
-**Email:** [paulineakoth2002@gmail.com]  
+**Email:** paulineakoth2002@gmail.com 
 **Department:** Business & Finance, SBETHM, MksU  
 **Project Repository:** [https://github.com/onyangoju/Machakos-University-Postgraduate-Alumni-Tracker.git](https://github.com/onyangoju/Machakos-University-Postgraduate-Alumni-Tracker.git)
