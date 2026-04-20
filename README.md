@@ -278,5 +278,5 @@ Copyright (c) 2026 Pauline Onyango, Machakos University
 
 **Developer:** Pauline Onyango  
 **Email:** [paulineakoth2002@gmail.com]  
-**Department:** [Business & Finance]  
-**Project Repository:** [https://github.com/pauline-onyango/machakos-alumni-tracker](https://github.com/pauline-onyango/machakos-alumni-tracker)
+**Department:** Business & Finance, SBETHM, MksU  
+**Project Repository:** [https://github.com/onyangoju/Machakos-University-Postgraduate-Alumni-Tracker.git](https://github.com/onyangoju/Machakos-University-Postgraduate-Alumni-Tracker.git)
